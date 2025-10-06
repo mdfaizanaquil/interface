@@ -13,8 +13,6 @@ Uniswap Labs maintains and develops all interfaces in a **private repository**. 
 
 Because of this private development model:
 
-**We do not accept pull requests to this repository.**
-
 ## How You *Can* Contribute
 
 We still welcome your ideas, feedback, and issue reports. The best ways to contribute are:
